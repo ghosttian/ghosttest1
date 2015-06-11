@@ -1,0 +1,21 @@
+//
+//  wantVideoEngineDemo.pch
+//  wantVideoEngineDemo
+//
+//  Created by ghost on 15-6-2.
+//  Copyright (c) 2015年 ghost. All rights reserved.
+//
+
+#ifndef wantVideoEngineDemo_wantVideoEngineDemo_pch
+#define wantVideoEngineDemo_wantVideoEngineDemo_pch
+
+#import <Availability.h>
+#import "commonMacro.h"
+#import "Categories.h"
+#import "GinLog.h"
+#import "UIView+Addtion.h"
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif

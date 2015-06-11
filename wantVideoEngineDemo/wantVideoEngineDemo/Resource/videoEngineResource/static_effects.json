@@ -1,0 +1,70 @@
+{
+    "musicname": "",
+    "filterdata": {
+        "stage_array": [
+                        {
+                        "stage_id": "99995",
+                        "filter_id": "10000",
+                        "filter_config": {
+                        "none_kadin": "1"
+                        },
+                        "time_range": {
+                        "start": "0.0",
+                        "length": "2.0"
+                        },
+                        "animation_path": []
+                        },
+                        {
+                        "stage_id": "99996",
+                        "filter_id": "10000",
+                        "filter_config": {
+                        "none_kadin": "1"
+                        },
+                        "time_range": {
+                        "start": "2.0",
+                        "length": "1.0",
+                        "speed": "0.1"
+                        },
+                        "animation_path": []
+                        },
+                        {
+                        "stage_id": "99997",
+                        "filter_id": "10000",
+                        "filter_config": {
+                        "none_kadin": "1"
+                        },
+                        "time_range": {
+                        "start": "2.0",
+                        "length": "2.0"
+                        },
+                        "animation_path": []
+                        },
+                        {
+                        "stage_id": "99998",
+                        "filter_id": "10000",
+                        "filter_config": {
+                        "none_kadin": "1"
+                        },
+                        "time_range": {
+                        "start": "4.0",
+                        "length": "1.0",
+                        "speed": "0.1"
+                        },
+                        "animation_path": []
+                        },
+                        {
+                        "stage_id": "99999",
+                        "filter_id": "10000",
+                        "filter_config": {
+                        "none_kadin": "1"
+                        },
+                        "time_range": {
+                        "start": "4.0",
+                        "length": "10.0"
+                        },
+                        "animation_path": []
+                        },
+                        
+                        ]
+    }
+}
